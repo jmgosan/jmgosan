@@ -1,1 +1,1 @@
-Pok! Versión inicial en repositorios
+Repositorio de Juan Manuel González Sánchez para las clases
